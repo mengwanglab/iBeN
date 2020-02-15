@@ -1,4 +1,4 @@
 # iBeN
 Code associated with:
 
-Ayse Sena Mutlu, Shihong Max Gao, Haining Zhang, Meng C. Wang (2020).OLFACTORY SPECIFICITY REGULATES PERIPHERAL ADIPOSITY. Nature Communications.
+Ayse Sena Mutlu, Shihong Max Gao, Haining Zhang, Meng C. Wang (2020).OLFACTORY SPECIFICITY REGULATES LIPID METABOLISM THROUGH NEUROENDOCRINE SIGNALING IN CAENORHABDITIS ELEGANS. Nature Communications.
